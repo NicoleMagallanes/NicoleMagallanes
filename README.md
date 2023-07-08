@@ -2,6 +2,8 @@
 
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2diNjk5cHlwdzZydW1jM3U3eW0yYm01c29ic2lyYzJld3M5bWFldiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1GNw3Tz6My9MOctpK0/giphy.gif" alt="GIF" width="500" height="300" />
+  <p></p>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bacasime+Antique&weight=800&pause=1000&color=F72EE8&width=435&lines=Nicole+Magallanes;Full+Stack+Web+Developer;Software+Engineering+Student" alt="Typing SVG" /></a>
 </div>
 
 <!--
