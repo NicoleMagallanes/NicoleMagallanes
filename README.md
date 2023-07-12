@@ -49,10 +49,13 @@ I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-### :fire: My Stats :
+### ✨ My Trophies :
+[![trophy](https://github-profile-trophy.vercel.app/?username=NicoleMagallanes)](https://github.com/ryo-ma/github-profile-trophy)
+
+### ✨ My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NicoleMagallanes&theme=dark&background=000000)](https://git.io/streak-stats)
 
-### :fire: My Languages :
+### ✨ My Languages :
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicoleMagallanes&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
