@@ -2,7 +2,7 @@
     <img src="https://i.ibb.co/Mcvgzbr/2-removebg-preview.png" alt="2-removebg-preview"width="100" height="100" />
 </div>
 <div align="center" id="badges">
-  <a href="your-linkedin-URL">
+  <a href="[your-linkedin-URL](https://www.linkedin.com/in/nicole-magallanes-68b89b1b6/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-youtube-URL">
